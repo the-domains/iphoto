@@ -6,22 +6,32 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T19:02:37.578Z'
-dateModified: '2016-01-06T19:02:22.758Z'
-title: Views and things
+datePublished: '2016-01-06T19:53:30.567Z'
+dateModified: '2016-01-06T19:28:37.314Z'
+title: Iphoto pics
 author: []
+sourcePath: _posts/2016-01-06-views-and-things.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-views-and-things.md
-published: true
 url: views-and-things/index.html
 _type: Article
 
 ---
-View from SoestDidijk to Obelisk
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9944e5-b9c2-4451-ae3d-2a1a4c4f962e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7a0d28-2ba1-4184-9340-4eb247a20a74.jpg)
+Dublin
+
+Dun Laoghaire Pier. 100Km/h winds in February
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3ebbe8-31ee-46f7-8c80-ff6ea83bf64f.jpg)
+
+Glendalough marsh in November sunshine
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce9eedb5-9075-4abd-91aa-80e6377c74d1.jpg)
+
+Salthill seaside, September sunset
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01fa5990-51d7-4e47-a6b3-748e025288e9.jpg)
+
+Lough Tay - Guinness Lake in November
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a18e8f33-a072-4db6-b457-a1882a7a739f.jpg)
