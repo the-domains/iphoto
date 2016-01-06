@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T19:53:30.567Z'
-dateModified: '2016-01-06T19:28:37.314Z'
+datePublished: '2016-01-06T19:56:42.637Z'
+dateModified: '2016-01-06T19:56:29.733Z'
 title: Iphoto pics
 author: []
 sourcePath: _posts/2016-01-06-views-and-things.md
@@ -18,14 +19,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: views-and-things/index.html
-_type: Article
+_type: Blurb
 
 ---
 Dublin
 
 Dun Laoghaire Pier. 100Km/h winds in February
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3ebbe8-31ee-46f7-8c80-ff6ea83bf64f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/963ebd6b7fea68858c4468f907bdc2aed00e4300.jpg)
 
 Glendalough marsh in November sunshine
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce9eedb5-9075-4abd-91aa-80e6377c74d1.jpg)
