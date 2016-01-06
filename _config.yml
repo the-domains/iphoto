@@ -1,0 +1,28 @@
+name: iphoto
+favicon: null
+layout_spectrum: 0.7255943461786956
+typography_spectrum: 0.7434372031129897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7792281019501388
+  lightness: 0.9049550839699805
+  saturation: 0.42348057962954044
+  rhythmicContrast: 0.4506991566158831
+purpose: []
