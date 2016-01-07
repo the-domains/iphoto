@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-07T11:16:39.197Z'
-dateModified: '2016-01-07T11:16:32.534Z'
+datePublished: '2016-01-07T20:39:37.454Z'
+dateModified: '2016-01-07T11:16:39.197Z'
 title: Between the mountains and the sea
 author: []
 sourcePath: _posts/2016-01-06-views-and-things.md
