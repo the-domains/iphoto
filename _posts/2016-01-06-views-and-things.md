@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-07T10:50:05.297Z'
-dateModified: '2016-01-07T10:49:59.036Z'
+datePublished: '2016-01-07T11:15:39.940Z'
+dateModified: '2016-01-07T11:15:24.904Z'
 title: Iphoto pics
 author: []
 sourcePath: _posts/2016-01-06-views-and-things.md
@@ -29,3 +29,7 @@ _type: Blurb
 > # **The sky broke like an egg into full sunset and the water caught fire**
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2b72d88-ba78-4392-9ade-a93c0159858c.jpg)
+
+> # **The mountains are calling and I must go**
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d4b94b-8951-49ab-925c-c26025f196d8.jpg)
