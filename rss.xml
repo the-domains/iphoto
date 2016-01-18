@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[iphoto]]></title>
         <description><![CDATA[iphoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 23:17:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 23:18:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iphoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Between the mountains and the sea]]></title>
             <description><![CDATA[<article><h1>Between the mountains and the sea</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f5cf7da298646342ef66b9e3a0b050cb0e61e8e.jpg"></article>]]></description>
-            <link>undefinedbetween-the-mountains-and-the-sea/index.html</link>
+            <link>https://thegrid.ai/iphoto/between-the-mountains-and-the-sea/index.html</link>
             <guid isPermaLink="false">e9b1ffca-a916-474a-b153-6caa6db946a5</guid>
             <pubDate>Mon, 18 Jan 2016 23:17:48 GMT</pubDate>
         </item>
