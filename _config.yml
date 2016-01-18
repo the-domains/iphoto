@@ -1,15 +1,7 @@
-layout_spectrum: 1
-favicon: null
 name: iphoto
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.23953
+typography_spectrum: 0.50439
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5
-  saturation: 0.5
   brandColors:
     - '#fdffcc'
     - '#3d3840'
     - '#110000'
     - '#c38b59'
     - '#8bafc6'
+  brandStrength: 0.5
   lightness: 0.9049550839699805
+  saturation: 0.5
   rhythmicContrast: 0.4506991566158831
-typography_spectrum: 0.50439
+purpose: []
