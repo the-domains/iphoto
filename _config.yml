@@ -1,7 +1,7 @@
 name: iphoto
 favicon: null
-layout_spectrum: 0.23953
-typography_spectrum: 0.50439
+layout_spectrum: 0
+typography_spectrum: 0.62499
 collections:
   - index:
       navigable: true
@@ -34,7 +34,7 @@ color:
     - '#c38b59'
     - '#8bafc6'
   brandStrength: 0.5
-  lightness: 0.9049550839699805
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.4506991566158831
 purpose: []
