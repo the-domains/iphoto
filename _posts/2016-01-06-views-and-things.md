@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:10:34.395Z'
-dateModified: '2016-01-07T20:39:37.454Z'
+datePublished: '2016-01-18T23:17:48.603Z'
+dateModified: '2016-01-18T23:17:45.009Z'
 title: Between the mountains and the sea
 author: []
 sourcePath: _posts/2016-01-06-views-and-things.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: between-the-mountains-and-the-sea/index.html
+_type: Article
 
 ---
 > # **Laughter is the sun that drives winter from the human face**
